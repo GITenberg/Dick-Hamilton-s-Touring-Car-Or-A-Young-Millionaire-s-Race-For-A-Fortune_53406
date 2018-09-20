@@ -1,5 +1,8 @@
 _repo: Dick-Hamilton-s-Touring-Car-Or-A-Young-Millionaire-s-Race-For-A-Fortune_53406
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53406-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/808
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53406#Dick-Hamilton-s-Touring-Car-Or-A-Young-Millionaire-s-Race-For-A-Fortune
 gutenberg_issued: '2016-10-30'
 gutenberg_type: Text
 identifiers:
